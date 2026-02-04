@@ -6,7 +6,7 @@
       <img src="assets/images/schoobee.png" alt="Logo" style="width: auto;height: 50px;">
     </div>
 
-    <div class="sidebar-shortcuts-large" id="sidebar-shortcuts-large">
+    <div class="sidebar-shortcuts-large" id="sidebar-shortcuts-large" >
         <button class="btn btn-success">
             <i class="ace-icon fa fa-signal"></i>
         </button>

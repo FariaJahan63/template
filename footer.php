@@ -1,6 +1,6 @@
 <div class="footer" >
 				<div class="footer-inner">
-					<div class="footer-content" style="left: 0%;  ">
+					<div class="footer-content" style="left: 3.5%;  ">
 						<span class="bigger-120">
 							<span class="blue bolder">Ace</span>
 							Application &copy; 2013-2014

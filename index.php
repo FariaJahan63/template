@@ -54,6 +54,14 @@
 				/* Ace collapsed width */
 			}
 		}
+.sidebar{
+	width: 250px;
+}
+.main-content-inner{
+
+    float: left;
+    width: 96.5%;
+}
 
 		#sidebar-logo {
 			display: block;
@@ -173,10 +181,10 @@
 									<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-highlight" />
 									<label class="lbl" for="ace-settings-highlight"> Alt. Active Item</label>
 								</div>
-							</div><!-- /.pull-left -->
-						</div><!-- /.ace-settings-box -->
+							</div>
+						</div>
 					</div>
-					<!-- /.ace-settings-container -->
+			
 
 					<div class="row">
 						<div class="col-xs-12">
